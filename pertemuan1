@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+    sedang latihan javascrip </h2>
+    <p id="areta"></p>
+    </body>
+    <script>
+    var x "Areta Informatics Collegent";
+    document.getE1ementBy.id ("Areta Informatics Collegent")
+    innerHML= "saya belajar di kampu" + >x;
+    </script>
+</html>
